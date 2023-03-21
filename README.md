@@ -4,5 +4,5 @@ The main challenge of this project was the data set of indian sign language that
 
 ## How to RUN this Project
 step 1: run the collecting_annotates_for_trainig /*for making the data set*/
-step 2: run the model training and saving file 
+step 2: run the model training&saving files  
 step 3: run predicton _holistic file /*for live prediction*/
